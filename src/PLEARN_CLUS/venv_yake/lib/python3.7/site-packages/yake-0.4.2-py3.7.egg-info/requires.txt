@@ -1,0 +1,6 @@
+tabulate
+click>=6.0
+numpy
+segtok
+networkx
+jellyfish
